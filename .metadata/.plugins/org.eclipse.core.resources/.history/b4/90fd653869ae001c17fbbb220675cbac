@@ -1,0 +1,22 @@
+package com.example.demo;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class User {
+	
+	
+	
+	private String user;
+	
+	
+	private String password;
+	
+	
+	@Override
+	public String toString() {
+		return "User [user=" + user + ", password=" + password + "]";
+	}
+	
+	
+}

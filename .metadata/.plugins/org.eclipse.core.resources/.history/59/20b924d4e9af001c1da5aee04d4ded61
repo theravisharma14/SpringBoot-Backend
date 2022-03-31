@@ -1,0 +1,29 @@
+package com.spring.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+
+import com.spring.bean.User;
+import com.spring.service.Iservice;
+
+@Controller
+public class MainController {
+	
+	@Autowired
+	private Iservice iservice;
+	
+	
+	
+	public List<User> getUser()
+	{
+		
+		
+		
+		
+		
+		return iservice.getUser();
+	}
+
+}

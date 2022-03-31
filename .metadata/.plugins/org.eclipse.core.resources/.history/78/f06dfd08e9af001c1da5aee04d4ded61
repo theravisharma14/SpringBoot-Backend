@@ -1,0 +1,7 @@
+package com.spring.service.impl;
+
+import com.spring.service.Iservice;
+
+public class Iserviceimpl implements Iservice{
+
+}

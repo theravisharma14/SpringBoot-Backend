@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ResourceNavigator">
+		<item key="ResourceWorkingSetFilter.STORE_WORKING_SET" value="Aggregate for window 1646723666251"/>
+		<item key="ResourceViewer.STORE_SORT_TYPE" value="1"/>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\ravi1\Downloads\spring-boot-import-csv-file-app-master\parsecsv"/>
+			<item value="C:\Users\ravi1\Downloads\my-app\my-app"/>
+			<item value="E:\Work\apache-derby-example"/>
+			<item value="E:\Work\spring-boot-undertow-example"/>
+			<item value="E:\Work\spring-boot-jpa-example"/>
+			<item value="C:\Users\ravi1\Downloads\demo (1)\demo"/>
+			<item value="E:\Work\JSPCrud"/>
+			<item value="E:\Work\mvc"/>
+			<item value="E:\Work\demoRegLog"/>
+			<item value="C:\Users\ravi1\Downloads\GoogleSearcher\GoogleSearcher"/>
+			<item value="E:\Work"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="TaskPropertiesDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="495"/>
+		<item key="DIALOG_Y_ORIGIN" value="290"/>
+		<item key="DIALOG_WIDTH" value="949"/>
+		<item key="DIALOG_HEIGHT" value="351"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="619"/>
+		<item key="DIALOG_Y_ORIGIN" value="274"/>
+	</section>
+</section>

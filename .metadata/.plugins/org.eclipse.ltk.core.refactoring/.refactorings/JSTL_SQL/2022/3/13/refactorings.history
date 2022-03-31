@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JSTL_SQL/src/main/webapp/deleteparam.jsp&apos; to &apos;param.jsp&apos;" description="Rename resource &apos;deleteparam.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/deleteparam.jsp" name="param.jsp" stamp="1647844018934" updateReferences="true"/>
+</session>

@@ -1,0 +1,16 @@
+package com.example.demo;
+import  org.springframework.*;
+
+@Controller
+public class Controller {
+	
+	
+	public String fileHandler()
+	{
+		return "Just for testing";
+	}
+	
+	
+	
+
+}

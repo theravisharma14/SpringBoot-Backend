@@ -1,0 +1,11 @@
+package com.example.demo.address;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Address {
+
+	@Value("Etah")
+	private String ad;
+	
+}

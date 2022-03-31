@@ -1,0 +1,16 @@
+package com.example.demo;
+import  org.springframework.stereotype.*;
+
+@Controller
+public class TestController {
+	
+	
+	public String fileHandler()
+	{
+		return "Just for testing";
+	}
+	
+	
+	
+
+}

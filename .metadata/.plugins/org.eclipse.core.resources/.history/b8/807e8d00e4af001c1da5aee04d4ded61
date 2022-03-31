@@ -1,0 +1,20 @@
+package com.spring.controller;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.stereotype.Controller;
+
+import com.spring.bean.User;
+
+@Controller
+public class MainController {
+	
+	
+	public List<User> getUser()
+	{
+		List<User> u=new ArrayList<User>();
+		u.add(new User(1,"Ravi"));
+	}
+
+}

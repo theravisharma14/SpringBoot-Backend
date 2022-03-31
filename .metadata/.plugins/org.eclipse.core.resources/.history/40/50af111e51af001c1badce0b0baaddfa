@@ -1,0 +1,14 @@
+package com.spring.exception;
+
+public class ResourceNotFoundException extends RuntimeException {
+	private String resource;
+	private String  fieldName;
+	private Object fieldValue;
+	public ResourceNotFoundException(String resource, String fieldName, Object fieldValue) {
+		super(String.format("%s not found with %s:'%s'",resourcee,fieldName,fieldValue));
+		this.resource = resource;
+		this.fieldName = fieldName;
+		this.fieldValue = fieldValue;
+	}
+
+}

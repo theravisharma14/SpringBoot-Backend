@@ -1,0 +1,14 @@
+package com.example.demo;
+
+public class Controller {
+	
+	
+	public String fileHandler()
+	{
+		return "Just for testing";
+	}
+	
+	
+	
+
+}

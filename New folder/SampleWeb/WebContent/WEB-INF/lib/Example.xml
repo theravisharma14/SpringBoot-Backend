@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servlet>
+<servlet-welcome>Example1</servlet-welcome>
+<servlet-class>Example</servlet-class>
+</servlet>

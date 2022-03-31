@@ -1,0 +1,16 @@
+package com.example.demo;
+
+import org.apache.catalina.core.ApplicationContext;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ThirdApp1Application {
+
+	public static void main(String[] args) {
+		ApplicationContext a=(ApplicationContext) SpringApplication.run(ThirdApp1Application.class, args);
+		
+		
+	}
+
+}

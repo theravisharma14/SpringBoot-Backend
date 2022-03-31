@@ -1,0 +1,18 @@
+package com.example.demo;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+@ResponseBody
+public class TestController {
+	
+	@RequestMapping("/test")
+	public String fileHandler()
+	{
+		return "Just for testing";
+	}
+	
+	
+	
+
+}

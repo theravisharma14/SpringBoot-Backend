@@ -1,0 +1,10 @@
+package com.spring.spring.service;
+
+import org.springframework.http.HttpStatus;
+
+import com.spring.model.Employee;
+
+public interface EmployeeService {
+	HttpStatus saveEmployee(Employee employee);
+
+}
